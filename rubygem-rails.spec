@@ -10,7 +10,7 @@ Summary: Web-application framework
 Name: rubygem-%{gemname}
 Epoch: 1
 Version: 3.2.13
-Release: 1%{?dist}
+Release: 2%{?dist}
 Group: Development/Languages
 License: MIT
 URL: http://www.rubyonrails.org
